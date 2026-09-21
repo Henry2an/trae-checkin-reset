@@ -42,7 +42,7 @@ commercial-banner-popup:commercial:ide.bannerPopup:credits.dailyCheckIn.ideBanne
 node reset_checkin_banner.js
 ```
 
-## 不想等弹窗？直接手动签到
+## 不想等弹窗？直接手动签到 😂
 
 弹窗本来就不是唯一入口。在 Trae 中点击左下角 **头像 → 签到**，即可直接领取（官方说明：免费用户每日签到可得通用积分，有效期 31 个自然日）。若提示「该设备今日已参与签到」或入口缺失，属账号/设备维度的服务端限制，请联系官方客服 `feedback@mail.trae.cn` 处理。
 
