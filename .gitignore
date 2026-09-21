@@ -1,0 +1,9 @@
+# 本地运行产物（含个人账号状态，切勿提交）
+backup/
+*.bak
+*.bak-*
+
+# 日志与系统文件
+*.log
+.DS_Store
+Thumbs.db

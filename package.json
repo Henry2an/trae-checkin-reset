@@ -1,0 +1,14 @@
+{
+  "name": "trae-checkin-reset",
+  "version": "1.0.0",
+  "private": true,
+  "description": "重置 Trae CN 每日签到积分弹窗的本地展示频控（state.vscdb），删除前自动备份。",
+  "main": "reset_checkin_banner.js",
+  "scripts": {
+    "start": "node reset_checkin_banner.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "license": "MIT"
+}
